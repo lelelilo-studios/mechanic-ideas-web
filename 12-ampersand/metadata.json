@@ -1,0 +1,8 @@
+{
+  "id": "12-ampersand",
+  "title": "Ampersand",
+  "pitch": "Two heroes fused by a living tether: stretch it into a cutting beam, then snap them together to crush whatever is caught between.",
+  "howto": "Drag one hero while the other anchors - the taut tether cuts, and sweeping it hits harder. Release to snap the pair together for a crushing shockwave; overstretching frays the bond. Earn sparks for tether upgrades and bond XP (sync kills pay extra) for milestone perks.",
+  "controls": "Drag a hero to stretch and sweep the beam. Release to snap. Drag open ground to move the pair. WASD also moves.",
+  "accent": "#ffc94d"
+}
