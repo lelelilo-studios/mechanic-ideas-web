@@ -1,0 +1,8 @@
+{
+  "id": "13-furnace-heart",
+  "title": "Furnace Heart",
+  "pitch": "HP is fuel: everything you do burns heat, and every fuel you loot burns on its own curve.",
+  "howto": "Keep your furnace-golem's fire alive through enemy waves. Kills drop coal, wood, oil and shards - each with a different burn curve you can read before you feed it. Too cold you shut down, too hot the boiler cracks; grind slag for engine parts like bigger hoppers and heat exchangers.",
+  "controls": "Drag to move. Tap fuel chips to feed the furnace. Tap VENT to blast excess heat.",
+  "accent": "#ff6a2a"
+}
