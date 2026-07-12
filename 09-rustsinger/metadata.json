@@ -1,0 +1,8 @@
+{
+  "id": "09-rustsinger",
+  "title": "Rustsinger",
+  "pitch": "Every strike rusts your blade — scrape the rust off as currency, or let it hit 100% and shatter into a new weapon forged from whatever you bled it on.",
+  "howto": "Dash-strike waves of foes; each hit rusts your blade, making it hit harder but swing slower. Hold SCRAPE to harvest rust into flakes for permanent smith upgrades and trinkets, or ride to 100% rust and shatter-reroll into one of 12 discoverable blades seeded by what and how fast you hit.",
+  "controls": "Tap to dash-strike. Hold and drag to walk. Hold the SCRAPE button to harvest rust. (Desktop: WASD walk, Space scrape.)",
+  "accent": "#d4622a"
+}
