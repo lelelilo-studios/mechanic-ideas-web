@@ -1,0 +1,8 @@
+{
+  "id": "01-echo-harvest",
+  "title": "Echo Harvest",
+  "pitch": "Every run you fly is recorded and replays forever as a ghost that keeps harvesting for you.",
+  "howto": "Fly short timed runs through the crystal field to harvest shards. Each finished run becomes a translucent echo that loops that exact route forever at reduced yield - even while you're away. Grind shards to upgrade speed, yield, echo efficiency and unlock richer field zones.",
+  "controls": "Hold or drag anywhere - the harvester follows your pointer. Tap buttons to start runs and buy upgrades. WASD optional on desktop.",
+  "accent": "#52E0FF"
+}
