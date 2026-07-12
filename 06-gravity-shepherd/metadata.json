@@ -1,0 +1,8 @@
+{
+  "id": "06-gravity-shepherd",
+  "title": "Gravity Shepherd",
+  "pitch": "Your stats are moons in orbit — slingshot them at the void and feed them mass to grow your build.",
+  "howto": "Moons orbit you, blocking bullets and grazing enemies. Drag a moon back and release to slingshot it, then feed collected mass to level moons mid-run: bigger hits harder but orbits slower. Earn stardust between runs for permanent levels, extra hearts and two new moon types.",
+  "controls": "Drag empty space to move. Drag a moon and release to slingshot. Tap a moon card to feed it mass.",
+  "accent": "#4AC6FF"
+}
