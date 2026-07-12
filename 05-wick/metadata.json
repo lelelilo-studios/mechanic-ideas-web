@@ -1,0 +1,8 @@
+{
+  "id": "05-wick",
+  "title": "Wick",
+  "pitch": "Your candle body is HP, light radius and action fuel in one - every move you make melts you.",
+  "howto": "Survive waves of wax creatures in a pitch-dark arena: every step, slash and flare burns your body smaller, and your light shrinks with it. Absorb slain foes' wax to regrow and bank shavings. Between runs, sculpt banked wax into permanent blade, wick, lantern, body and ember upgrades.",
+  "controls": "Hold to walk toward your finger, quick-tap to slash (aim-assisted), FLARE button for a burning blast. Walk into dead candles to light beacons. Desktop: WASD + Space.",
+  "accent": "#ffb545"
+}
