@@ -1,0 +1,8 @@
+{
+  "id": "10-knot-mage",
+  "title": "Knot Mage",
+  "pitch": "Draw a rope stroke — how many times it crosses itself IS the spell.",
+  "howto": "Drag to draw a strand and release to cast: no crossings wards you, one crossing fires a bolt, more curls mean bigger magic. Casting spends rope that regrows. Grind fiber from foes to buy longer rope, silk, wire and runethread, and fill your grimoire of knots.",
+  "controls": "Drag anywhere to draw, release to cast. Everything else is tap.",
+  "accent": "#f2b04a"
+}
