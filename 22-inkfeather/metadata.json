@@ -1,0 +1,8 @@
+{
+  "id": "22-inkfeather",
+  "title": "Inkfeather",
+  "pitch": "Calligraphy combat where your ink only refills while you stand perfectly still.",
+  "howto": "Paint brush strokes to strike ink-beasts: a flat line sweeps, a downward line cleaves, and every stroke spends ink that returns ONLY while you are motionless. Survive waves, gather crimson, indigo and gold pigments from the fallen, and grind them into new strokes and inkwell upgrades in the persistent Library.",
+  "controls": "Drag anywhere to paint a stroke (flat = Sweep, down = Cleave, up = Gale, circle = Guard, zigzag = Storm). Tap to glide there. Stand still to breathe ink back. WASD optional on desktop.",
+  "accent": "#C0392F"
+}
