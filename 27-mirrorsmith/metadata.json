@@ -1,0 +1,8 @@
+{
+  "id": "27-mirrorsmith",
+  "title": "Mirrorsmith",
+  "pitch": "Block an attack with your mirror to record its exact bullet pattern as real data, then forge it into a weapon that replays the pattern as your own.",
+  "howto": "Hold anywhere to raise the mirror into an incoming volley: it reflects the shots and etches that pattern into your codex, and the crisper your timing the higher the fidelity you record. At the forge you smith recorded patterns into weapons, amplify them, and fuse two event lists into hybrids. Elites and the Mirror Monarch carry rare signature patterns that drop nowhere else - that's the hunt.",
+  "controls": "Hold anywhere to raise the mirror, drag to sweep it toward the incoming shots, release to drop it. Tap buttons for the forge and upgrades. Spacebar auto-aims the mirror on desktop.",
+  "accent": "#7DE8DC"
+}
