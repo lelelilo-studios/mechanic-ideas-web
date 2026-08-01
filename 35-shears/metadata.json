@@ -1,0 +1,8 @@
+{
+  "id": "35-shears",
+  "title": "Shears",
+  "pitch": "Giant tailor's shears: cut a piece out of the paper world, carry it folded on your back, paste it anywhere as new ground.",
+  "howto": "Drag a box on the terrain to SNIP a piece, then tap anywhere in reach to PASTE it. Bridge gaps, tunnel through walls, squash paper pests - your carried piece even soaks a hit before it tears. Earn scraps for a bigger clipboard, sharper shears and reinforced paper.",
+  "controls": "Drag on the paper to cut, tap to paste, on-screen arrows + jump. Keyboard: WASD/Space, J snip, K rotate. Gamepad: A jump, X snip/paste, B rotate.",
+  "accent": "#d94f3d"
+}
